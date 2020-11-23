@@ -25,4 +25,5 @@ cucumber-java 1.2.4, cucumber-core 1.2.4, cucumber-junit 1.2.4, junit 4.12, rest
 ### Executar teste no eclipse a partir da Runner:
 • src/test/java/runner.com.br/TestRunner.java
 
-
+### Evidências em :
+• target/cucumber-html-report/index.html
